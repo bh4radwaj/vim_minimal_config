@@ -4,6 +4,7 @@ let mapleader = " "
 " Enable relative line numbers
 set relativenumber
 set number
+set clipboard=unnamedplus
 
 " Map kj to escape to normal mode from insert mode
 inoremap kj <Esc>
